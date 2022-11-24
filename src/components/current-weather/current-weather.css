@@ -5,6 +5,7 @@
   background-color: #7289da;
   margin: 20px auto 0 auto;
   padding: 20px 20px 20px 20px;
+  color: white;
 }
 
 .top,
@@ -27,10 +28,10 @@
   font-size: 14px;
   line-height: 1;
   margin: 0;
+  text-transform: capitalize;
 }
 
 .weather-icon {
-  align-items: center;
   margin: auto;
 }
 
