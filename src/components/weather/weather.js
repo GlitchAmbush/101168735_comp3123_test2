@@ -1,6 +1,6 @@
-import "./current-weather.css";
+import "./weather.css";
 
-const CurrentWeather = ({ data }) => {
+const Weather = ({ data }) => {
   return (
     <div className="weather">
       <div className="top">
@@ -46,4 +46,4 @@ const CurrentWeather = ({ data }) => {
   );
 };
 
-export default CurrentWeather;
+export default Weather;
